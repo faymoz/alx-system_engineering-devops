@@ -1,1 +1,2 @@
 switching users
+shell permissions
