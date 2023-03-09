@@ -1,2 +1,1 @@
-switching users
-shell permissions
+shell permission
